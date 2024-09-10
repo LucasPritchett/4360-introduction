@@ -14,7 +14,7 @@ def main():
     elif option == "/what":
         print("Once I 'graduate', I want to go into cybersercurity or possibly AI.")
     elif option == "/fact":
-        print("One fun fact about me is that do demolition derbies.")
+        print("One fun fact about me is that I do demolition derbies.")
     else:
         print("Unknown option. Please use one of the following options: /name, /why, /what, /fact")
 
